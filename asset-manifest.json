@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.19517cdd.js",
-    "static/js/787.b9329098.chunk.js": "/static/js/787.b9329098.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.19517cdd.js.map": "/static/js/main.19517cdd.js.map",
-    "787.b9329098.chunk.js.map": "/static/js/787.b9329098.chunk.js.map"
+    "main.css": "/github.io/todo1/static/css/main.073c9b0a.css",
+    "main.js": "/github.io/todo1/static/js/main.fe7d2759.js",
+    "static/js/787.b9329098.chunk.js": "/github.io/todo1/static/js/787.b9329098.chunk.js",
+    "static/media/logo.svg": "/github.io/todo1/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/github.io/todo1/index.html",
+    "main.073c9b0a.css.map": "/github.io/todo1/static/css/main.073c9b0a.css.map",
+    "main.fe7d2759.js.map": "/github.io/todo1/static/js/main.fe7d2759.js.map",
+    "787.b9329098.chunk.js.map": "/github.io/todo1/static/js/787.b9329098.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.19517cdd.js"
+    "static/js/main.fe7d2759.js"
   ]
 }
